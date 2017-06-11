@@ -1,0 +1,33 @@
+{
+    "name": "shieldfy/shieldfy-codeigniter-client",
+    "description": "shieldfy firewall component for codeigniter framework",
+    "license": "MIT",
+    "keywords": [
+        "shieldfy",
+        "security",
+        "firewall",
+        "detection",
+        "application",
+        "attack",
+        "bypass",
+        "ips",
+        "ids"
+    ],
+    "authors": [
+        {
+            "name": "Shieldfy Inc.",
+            "homepage":"https://shieldfy.io",
+            "email": "team@shieldfy.io"
+        },
+        {
+            "name": "Eslam Salem",
+            "email": "eslam@shieldfy.io"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+    	"shieldfy/shieldfy-php-client":"2.*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
